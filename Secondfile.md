@@ -23,3 +23,5 @@ Content in the first column | Content in the second column
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
